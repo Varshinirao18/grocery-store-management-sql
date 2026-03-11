@@ -69,7 +69,7 @@ based on the implemented schema.
 
 Included files:
 - `ERD.mwb`
-- 
+  
 ## Core Analyses Performed
 
 | Analysis Category      | Key Insights Generated |
