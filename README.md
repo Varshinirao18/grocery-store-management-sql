@@ -69,9 +69,7 @@ based on the implemented schema.
 
 Included files:
 - `ERD.mwb`
-- ER diagram image (if applicable)
-
-
+- 
 ## Core Analyses Performed
 
 | Analysis Category      | Key Insights Generated |
